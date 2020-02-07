@@ -1,0 +1,20 @@
+name: by_interview
+channels:
+        - defaults
+dependencies:
+ # data
+        - pandas
+        - numpy
+
+        - scikit-learn
+
+        # jupyter
+        - jupyter
+        - jupyterlab
+
+        # plotting
+        - matplotlib
+        - seaborn
+
+        # other
+        - pip
