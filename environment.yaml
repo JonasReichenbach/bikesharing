@@ -16,3 +16,6 @@ dependencies:
         # plotting
         - matplotlib
         - seaborn
+
+        # io
+        - requests
