@@ -1,4 +1,4 @@
-name: by_interview
+name: bikesharing
 channels:
         - defaults
 dependencies:
