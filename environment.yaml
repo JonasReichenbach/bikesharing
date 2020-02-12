@@ -2,10 +2,11 @@ name: by_interview
 channels:
         - defaults
 dependencies:
- # data
+        # data
         - pandas
         - numpy
 
+        # ml
         - scikit-learn
 
         # jupyter
@@ -15,6 +16,3 @@ dependencies:
         # plotting
         - matplotlib
         - seaborn
-
-        # other
-        - pip
