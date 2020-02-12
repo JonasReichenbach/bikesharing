@@ -1,4 +1,7 @@
 # Temporary and binary files
+
+.ipynb_checkpoints
+
 *~
 *.py[cod]
 *.so
